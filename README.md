@@ -3,7 +3,6 @@
 
 ## Dataset
 The DonorsChoose Data Set contains train.csv and resources.csv files.
-## Dataset link: (https://www.kaggle.com/donorschoose/io)
 
 **train.csv** contains
 * project_id (A unique identifier for the proposed project)
@@ -48,3 +47,4 @@ If the number of values belonging to each class are unbalanced, using stratified
   * to present result in a tabular format
 * tqdm (**pip install tqdm**)
   *  add progress bars to Python code.
+## Dataset link: (https://www.kaggle.com/donorschoose/io)
