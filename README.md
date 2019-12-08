@@ -43,7 +43,7 @@ If the number of values belonging to each class are unbalanced, using stratified
   * tf-idf stands for Term frequency-inverse document frequency.
   * tf-idf is a weighting scheme that assigns each term in a document a weight based on its term frequency (tf) and inverse document frequency (idf)
 ## Python Library (required)
-* prettytable
+* prettytable (**pip install prettytable)
   * to present result in a tabular format
-* tqdm
+* tqdm (**pip install tqdm)
   *  add progress bars to Python code.
