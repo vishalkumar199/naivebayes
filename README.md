@@ -2,7 +2,8 @@
 **Objective**: The primary objective is to implement the Naive Bayes Algo on the DonorChoose Dataset and measure the accuracy on the Test dataset.
 
 ## Dataset
-The DonorsChoose Data Set contains train.csv and resources.csv files Dataset link (https://www.kaggle.com/donorschoose/io)
+The DonorsChoose Data Set contains train.csv and resources.csv files.
+## Dataset link: (https://www.kaggle.com/donorschoose/io)
 
 **train.csv** contains
 * project_id (A unique identifier for the proposed project)
