@@ -31,6 +31,7 @@ Each line in this file represents a resource required by a project:
 * price (Price of the resource required)
 
 **Sampling Techniques (Stratified Sampling)**
+
 If the number of values belonging to each class are unbalanced, using stratified sampling is a good thing. We are basically asking the model to take the training and test set such that the class proportion is same as of the whole dataset, which is the right thing to do.
 
 **vectorizing Method (used)**
