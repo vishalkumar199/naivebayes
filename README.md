@@ -1,5 +1,5 @@
 # Naivebayes
-Implemention of the Naive bayes Algo on the DonorChoose Dataset and measure the accuracy on the Test dataset.
+##Objective: The primary objective is to implement the Naive Bayes Algo on the DonorChoose Dataset and measure the accuracy on the Test dataset.
 
 The DonorsChoose Data Set contains train.csv and resources.csv files
 
@@ -28,5 +28,3 @@ The DonorsChoose Data Set contains train.csv and resources.csv files
 3. quantity (Quantity of the resource required)
 4. price (Price of the resource required)
 
-
-# Objective: The primary objective is to implement the Naive Bayes Algo on the DonorChoose Dataset and measure the accuracy on the Test dataset.
