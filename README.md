@@ -3,7 +3,7 @@
 
 The DonorsChoose Data Set contains train.csv and resources.csv files
 
-**train.csv** contains
+***train.csv*** contains
 * project_id (A unique identifier for the proposed project)
 * project_title (Title of the project)
 * project_grade_category (Grade level of students for which the project is targeted)
@@ -22,6 +22,7 @@ The DonorsChoose Data Set contains train.csv and resources.csv files
 * project_is_approved (A binary flag indicating whether DonorsChoose approved the project. A value of 0 indicates the project was not approved, and a value of 1 indicates the project was approved)
 
 **Additionally, the resources.csv data set provides more data about the resources required for each project**
+
 Each line in this file represents a resource required by a project:
 
 * id (A project_id value from the train.csv)
