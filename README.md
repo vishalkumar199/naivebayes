@@ -35,6 +35,6 @@ If the number of values belonging to each class are unbalanced, using stratified
 
 **vectorizing Method (used)**
 * Bow
-       * We convert text to a numerical representation called a feature vector.
-       * A feature vector can be as simple as a list of numbers.
+  * We convert text to a numerical representation called a feature vector.
+  * A feature vector can be as simple as a list of numbers.
 * TFIDF
