@@ -38,3 +38,5 @@ If the number of values belonging to each class are unbalanced, using stratified
   * We convert text to a numerical representation called a feature vector.
   * A feature vector can be as simple as a list of numbers.
 * TFIDF
+  * tf-idf stands for Term frequency-inverse document frequency.
+  * tf-idf is a weighting scheme that assigns each term in a document a weight based on its term frequency (tf) and inverse document frequency (idf)
