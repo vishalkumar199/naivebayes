@@ -2,6 +2,7 @@
 Implemention of the Naive bayes Algo on the DonorChoose Dataset and measure the accuracy on the Test dataset.
 
 The DonorsChoose Data Set contains train.csv and resources.csv files
+
 train.csv contains
 1. project_id (A unique identifier for the proposed project)
 2. project_title (Title of the project)
@@ -22,8 +23,10 @@ train.csv contains
 
 Additionally, the resources.csv data set provides more data about the resources required for each project. Each line in this file represents a resource required by a project:
 
-id (A project_id value from the train.csv)
-description (Desciption of the resource)
-quantity (Quantity of the resource required)
-price (Price of the resource required.)
+1. id (A project_id value from the train.csv)
+2. description (Desciption of the resource)
+3. quantity (Quantity of the resource required)
+4. price (Price of the resource required)
+
+
 Objective: The primary objective is to implement the Naive Bayes Algo on the DonorChoose Dataset and measure the accuracy on the Test dataset.
