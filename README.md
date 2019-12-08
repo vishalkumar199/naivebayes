@@ -3,7 +3,7 @@ Implemention of the Naive bayes Algo on the DonorChoose Dataset and measure the 
 
 The DonorsChoose Data Set contains train.csv and resources.csv files
 
-# train.csv contains
+### train.csv contains
 1. project_id (A unique identifier for the proposed project)
 2. project_title (Title of the project)
 3. project_grade_category (Grade level of students for which the project is targeted)
