@@ -3,15 +3,15 @@
 
 The DonorsChoose Data Set contains train.csv and resources.csv files
 
-* train.csv contains
-1. project_id (A unique identifier for the proposed project)
-2. project_title (Title of the project)
-3. project_grade_category (Grade level of students for which the project is targeted)
-4. project_subject_categories (One or more (comma-separated) subject categories for the project from enumerated list of values)
-5. school_state (State where school is located (Two-letter U.S. postal code))
-6. project_subject_subcategories (One or more (comma-separated) subject subcategories for the project)
-7. project-resource_summary (An explanation of the resources needed for the project.)
-8. project_essay_1 (First application essay)
+## train.csv contains
+* project_id (A unique identifier for the proposed project)
+* project_title (Title of the project)
+* project_grade_category (Grade level of students for which the project is targeted)
+* project_subject_categories (One or more (comma-separated) subject categories for the project from enumerated list of values)
+* school_state (State where school is located (Two-letter U.S. postal code))
+* project_subject_subcategories (One or more (comma-separated) subject subcategories for the project)
+* project-resource_summary (An explanation of the resources needed for the project.)
+* project_essay_1 (First application essay)
 9. project_essay_2 (second application essay)
 10. project_essay_3 (third application essay)
 11. project_essay_4 (fourth application essay)
