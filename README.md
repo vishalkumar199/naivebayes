@@ -1,5 +1,5 @@
 # Naivebayes
-##Objective: The primary objective is to implement the Naive Bayes Algo on the DonorChoose Dataset and measure the accuracy on the Test dataset.
+## Objective: The primary objective is to implement the Naive Bayes Algo on the DonorChoose Dataset and measure the accuracy on the Test dataset.
 
 The DonorsChoose Data Set contains train.csv and resources.csv files
 
@@ -21,7 +21,7 @@ The DonorsChoose Data Set contains train.csv and resources.csv files
 15. teacher_number_of_previously_posted_projects (Number of project applications previously submitted by the same teacher)
 16. project_is_approved (A binary flag indicating whether DonorsChoose approved the project. A value of 0 indicates the project was not approved, and a value of 1 indicates the project was approved)
 
-# Additionally, the resources.csv data set provides more data about the resources required for each project. Each line in this file represents a resource required by a project:
+## Additionally, the resources.csv data set provides more data about the resources required for each project. Each line in this file represents a resource required by a project:
 
 1. id (A project_id value from the train.csv)
 2. description (Desciption of the resource)
